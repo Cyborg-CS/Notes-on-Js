@@ -8,6 +8,7 @@ Rules to assign variable names-
 1. Cannot start with a number.
 2. Can start with letter,_ or $ and then can contain numbers.
 3. Are case sensitive.
+4. Use camelCase, kebab-case, snake_case or PascalCase.
 */
 
 //The old 'Var'//
