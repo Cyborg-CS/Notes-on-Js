@@ -11,7 +11,7 @@ console.log(34+10)
 //Also it can take expressions as argument and print the produced value//
 
 console.log(true)
-//Can return boolean's true//
+//Can return boolean's too//
 
 console.log(['Naruto', 'Death Note', 'Attack On Titan', 'Demon Slayer'])
 //Array's are there too//
@@ -24,7 +24,7 @@ console.warn('This is a warning')
 //This one gives a warning on console//
 
 console.assert(0 === true, "0 is not equals to boolean true")
-/**This one takes a statement as an argument and prints out another argument is the statement
+/**This one takes a statement as an argument and prints out another argument if the statement
  * Failes to get asserted**/
 
 console.error("This an error")
