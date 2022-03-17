@@ -8,3 +8,7 @@ So pushing a new commit with Type-conversions. didn't opened my IDE for 2 weeks 
 # 12 March, 2022
 
 As promised its another new commit where I'm adding String: Properties & Methods. I gotta go today somewhere, so let,s catch up on the next commit.
+
+# 17 March, 2022
+
+Not coding enough thats all I can say for now. The semester starts from next Wednesday and it definetly doesn't help. I don't know when I will be able to issue the next commit but yes thats it for now.
