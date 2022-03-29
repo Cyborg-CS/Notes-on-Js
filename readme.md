@@ -12,3 +12,7 @@ As promised its another new commit where I'm adding String: Properties & Methods
 # 17 March, 2022
 
 Not coding enough thats all I can say for now. The semester starts from next Wednesday and it definetly doesn't help. I don't know when I will be able to issue the next commit but yes thats it for now.
+
+# 29 March, 2022
+
+The semesters are mostly over and on this break day i thought i would push something new. Promising will try to do it regularly after it's over, I will get with the react too, for now this is it. 
