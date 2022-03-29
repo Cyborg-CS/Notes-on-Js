@@ -48,4 +48,4 @@ uselessFunction();
 
 // dates
 let date = new Date();
-console.log("The date type is " +typeof date);
+console.log("The date type is " +typeof(date));

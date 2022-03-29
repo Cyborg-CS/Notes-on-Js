@@ -37,4 +37,3 @@ console.log(z);
 const trueOne = true + 2;
 const falseOne = false + 2;
 console.log(trueOne, falseOne);
-  
