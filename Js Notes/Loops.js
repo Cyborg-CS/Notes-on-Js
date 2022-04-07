@@ -30,6 +30,12 @@
         console.log(`The ${key} of employee is ${employee[key]}`);
     }
     
+    //another way to loop over an object in js
+    let newEmployee = Object.keys(employee);
+    newEmployee.map((element)=>{
+      console.log(`The ${element} of employee is ${employee[element]}`);
+    })
+
     // while loop in js
     let i =0;
     while(i<4){
