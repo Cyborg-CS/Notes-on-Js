@@ -36,6 +36,9 @@ console.log(stringArr);
 let reverse = stringArr.reverse();
 console.log(stringArr);
 //Other than this we can also use the mothods from string-methods.js which are used to manipulate an array
+//here's a life saving method to filter a array from elements you dont want...
+let fileredArray = stringArr.filter((element)=>{return element.length>6});
+console.log(fileredArray);
 
 //Objects
 
