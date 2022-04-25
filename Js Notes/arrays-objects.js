@@ -39,6 +39,13 @@ console.log(stringArr);
 //here's a life saving method to filter a array from elements you dont want...
 let fileredArray = stringArr.filter((element)=>{return element.length>6});
 console.log(fileredArray);
+//This method takes a function for each item of the array...
+const fruits = ["apple", "orange", "cherry"];
+fruits.forEach(myFunction);
+
+function myFunction(item, index){
+console.log(index+': '+item+'\n');
+};
 
 //Objects
 
