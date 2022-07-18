@@ -20,3 +20,7 @@ The semesters are mostly over and on this break day i thought i would push somet
 # 25 April, 2022
 
 Probably me with my PC will meltdown by this heat !!! anyway, learned a lot about window object (not really). Moving slowly so that i dont get puzzled... 
+
+# 18 July, 2022
+
+Can't believe spended so much time without learning and coding on my final sem, but the past is past and its not my concern so will keep moving forward like eren said. Anyway, will probably pushing everyday from now on. Here's adding some concepts of parent, children nodes and components, can add something more today but not sure.
