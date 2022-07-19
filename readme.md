@@ -24,3 +24,7 @@ Probably me with my PC will meltdown by this heat !!! anyway, learned a lot abou
 # 18 July, 2022
 
 Can't believe spended so much time without learning and coding on my final sem, but the past is past and its not my concern so will keep moving forward like eren said. Anyway, will probably pushing everyday from now on. Here's adding some concepts of parent, children nodes and components, can add something more today but not sure.
+
+# 19 July, 2022
+
+as promised, will be pushing the js methods to create, edit, remove elements in html. these are pretty basics but the steps to become a good js dev. see ya...
